@@ -1,4 +1,4 @@
-# 🎬 Flux
+# Flux
 
 **Flux** is a Netflix-like video streaming platform built as a full-stack, production-oriented system.
 
