@@ -20,13 +20,6 @@ Flux is not a demo project. It is built to simulate real production systems from
 
 Flux is structured as a monorepo:
 
-flux/
-├── backend/          # Spring Boot REST API (Java)
-├── web/              # React frontend
-├── android/          # Android app (Kotlin + Compose)
-├── ios/              # iOS app (Swift + SwiftUI)
-├── infrastructure/   # Terraform / AWS configs (later)
-└── README.md
 
 ### MVP Architecture (Phase 1)
 
